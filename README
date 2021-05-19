@@ -1,0 +1,6 @@
+Command to run MOSS script :-
+
+Step 1 : perl moss.pl -l <language> <file1> <file2> ..... // any number of files
+	eg : perl moss.pl -l python Agent1.py Agent2.py
+	 
+Step 2 : Paste the generated url on a browser to see the plagiarism report
